@@ -1,0 +1,41 @@
+# Bottrop
+
+> Geotechnical engineering company in Germany, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Bemessung Vertikalen Drans](https://bottrop.geotechnik.sbs/bemessung-vertikalen-drans/)
+- [Bewertung Setzungsempfindlichen Boden](https://bottrop.geotechnik.sbs/bewertung-setzungsempfindlichen-boden/)
+- [Bodenmechanische Untersuchung](https://bottrop.geotechnik.sbs/bodenmechanische-untersuchung/)
+- [Bodenverbesserung](https://bottrop.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilisierungsbemessung](https://bottrop.geotechnik.sbs/boschungsstabilisierungsbemessung/)
+- [Boschungsstabilitatsanalyse](https://bottrop.geotechnik.sbs/boschungsstabilitatsanalyse/)
+- [Deep Soil Mixing](https://bottrop.geotechnik.sbs/deep-soil-mixing/)
+- [Direkter Scherversuch](https://bottrop.geotechnik.sbs/direkter-scherversuch/)
+- [Einaxialer Druckversuch](https://bottrop.geotechnik.sbs/einaxialer-druckversuch/)
+- [Erkundung](https://bottrop.geotechnik.sbs/erkundung/)
+- [Fahrbahnbau Untergrundbemessung](https://bottrop.geotechnik.sbs/fahrbahnbau-untergrundbemessung/)
+- [Felddichtebestimmung](https://bottrop.geotechnik.sbs/felddichtebestimmung/)
+- [Fundamente](https://bottrop.geotechnik.sbs/fundamente/)
+- [Geomembran Spezifikation](https://bottrop.geotechnik.sbs/geomembran-spezifikation/)
+- [Geophysik](https://bottrop.geotechnik.sbs/geophysik/)
+- [Hange](https://bottrop.geotechnik.sbs/hange/)
+- [In Situ Prufungen](https://bottrop.geotechnik.sbs/in-situ-prufungen/)
+- [Labor](https://bottrop.geotechnik.sbs/labor/)
+- [Menard Druckversuch](https://bottrop.geotechnik.sbs/menard-druckversuch/)
+- [Sanierung Kontaminierter Boden](https://bottrop.geotechnik.sbs/sanierung-kontaminierter-boden/)
+- [Scherwellengeschwindigkeit](https://bottrop.geotechnik.sbs/scherwellengeschwindigkeit/)
+- [Schlitzwandbemessung](https://bottrop.geotechnik.sbs/schlitzwandbemessung/)
+- [Seismik](https://bottrop.geotechnik.sbs/seismik/)
+- [Seismische Tomographie](https://bottrop.geotechnik.sbs/seismische-tomographie/)
+- [Sondierbohrung](https://bottrop.geotechnik.sbs/sondierbohrung/)
+- [Standard Penetration Test](https://bottrop.geotechnik.sbs/standard-penetration-test/)
+- [Standortantwortanalyse](https://bottrop.geotechnik.sbs/standortantwortanalyse/)
+- [Straengeotechnik](https://bottrop.geotechnik.sbs/straengeotechnik/)
+- [Stutzwandbemessung](https://bottrop.geotechnik.sbs/stutzwandbemessung/)
+
+## Contact
+- Website: https://bottrop.geotechnik.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in Germany.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
