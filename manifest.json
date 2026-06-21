@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "de",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Professionelle geotechnische Dienstleistungen in Bottrop, Germany. Bodenstudien, Prüfungen und technische Beratung.",
+  "id": "/bottrop-6970"
 }
